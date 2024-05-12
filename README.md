@@ -23,10 +23,15 @@ Migração do Banco de Dados: Execute as migrações do banco de dados usando o 
 # Dependências
 
 Express: Framework web rápido, sem opiniões e minimalista para Node.js.
+
 Stripe: Biblioteca oficial da API do Stripe para Node.js.
+
 Nodemailer: Módulo para enviar emails com Node.js.
+
 Prisma: Conjunto de ferramentas de banco de dados moderno para Node.js e TypeScript, usado para acesso ao banco de dados PostgreSQL.
+
 Moment.js: Biblioteca para análise, validação, manipulação e formatação de datas e horários em JavaScript.
+
 Bcrypt: Biblioteca para criptografar senhas antes de armazená-las no banco de dados.
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para quaisquer melhorias ou correções de bugs.
