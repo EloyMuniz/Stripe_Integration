@@ -17,7 +17,6 @@ if (process.env.STANDARDKEYLIVE) {
     console.error("A chave do ambiente não está definida.");
 }
 
-//     process.env.ENDPOINTLOCALLUC;
 
 //Stripe Eloy
 // const endpointSecret =
