@@ -42,7 +42,4 @@ Autor
 
 Eloy Muniz
 
-Agradecimentos
-
-Este projeto foi inspirado pela documentação oficial do Stripe.
 
