@@ -5,9 +5,11 @@ Este repositório contém código para integrar a plataforma de pagamento Stripe
 # Funcionalidades
 
 Integração com o Stripe: Utiliza a API do Stripe para lidar com o processamento de pagamentos, incluindo a criação e gerenciamento de intenções de pagamento e sessões de checkout.
+
 Banco de Dados PostgreSQL: Armazena informações do usuário, incluindo email, senha e quantidades de crédito, em um banco de dados PostgreSQL usando o ORM Prisma.
+
 Notificação por Email: Envia notificações por email aos usuários após o registro bem-sucedido, fornecendo credenciais de login e informações de crédito.
-Hash de Senha: Protege as senhas dos usuários criptografando-as antes de armazená-las no banco de dados usando bcrypt.
+
 Webhooks: Implementa webhooks do Stripe para lidar com eventos como intenções de pagamento bem-sucedidas e sessões de checkout concluídas.
 
 # Instruções de Configuração
@@ -37,8 +39,10 @@ Bcrypt: Biblioteca para criptografar senhas antes de armazená-las no banco de d
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests ou abrir issues para quaisquer melhorias ou correções de bugs.
 
 Autor
+
 Eloy Muniz
 
 Agradecimentos
+
 Este projeto foi inspirado pela documentação oficial do Stripe.
 
