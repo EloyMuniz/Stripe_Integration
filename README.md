@@ -1,6 +1,6 @@
 ### Integração de Pagamentos Stripe com Banco de Dados PostgreSQL
 
-Este repositório contém código para integrar a plataforma de pagamento Stripe com um banco de dados PostgreSQL usando Node.js e Express.js. A integração permite processar pagamentos através do Stripe e armazenar informações do usuário e detalhes de pagamento em um banco de dados PostgreSQL.
+Este repositório contém um microserviço para integrar a plataforma de pagamento Stripe com um banco de dados PostgreSQL usando Node.js e Express.js. A integração permite processar pagamentos através do Stripe e armazenar informações do usuário e detalhes de pagamento em um banco de dados PostgreSQL.
 
 # Funcionalidades
 
