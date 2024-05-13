@@ -21,7 +21,7 @@ app.get(`/${apiVersion}`, function (req, res) {
 
 app.use(express.json());
 
-
+//Dois parametros, onde o primeiro é a porta que será 'escutada' e o segundo uma função de callback para dizer que a porta está iniciada
 app.listen(PORT, () =>
     console.log(`✨ Server started on ${PORT}`)
 );

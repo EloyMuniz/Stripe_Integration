@@ -142,7 +142,7 @@ class StripeController {
                                             } else {
                                                 return res.status(200).json({
 
-                                                    message: "Email enviado com sucesso! ",
+                                                    message: "Email enviado com sucesso!  ", info: info,
                                                 });
                                             }
                                         });
